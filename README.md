@@ -85,6 +85,8 @@ Achievement Rate = (Actual Meters / Planned Meters) × 100
 
 ## Power BI Dashboard
 
+![Mining Operations Performance Dashboard](mining_operations_dashboard.png)
+
 The interactive dashboard provides a visual overview of mining operations performance.
 
 Main visualizations include:
