@@ -111,6 +111,17 @@ This project demonstrates the application of data analytics techniques to mining
 
 By combining SQL, Python, and Power BI, it provides an analytical approach to monitoring operational performance and supporting data-driven decisions.
 
+## Project Structure
+
+The repository is organized as follows:
+
+- `Data Exploration.ipynb`: Python exploratory data analysis.
+- `mining operations analysis.sql`: SQL queries and data analysis.
+- `Mining_Operations_Dashboard.pbix`: Power BI dashboard project.
+- `mining_operations_dashboard.png`: Dashboard screenshot.
+- `mining_operations_data.csv`: Mining operations dataset.
+- `README.md`: Project documentation.
+
 ## Author
 
 **Lucas Santos Della Cella**
